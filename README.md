@@ -41,3 +41,7 @@ python scripts/analisis_ventas.py
 
 ## Resultados
 El programa genera un gráfico de ventas por mes dentro de la carpeta resultados.
+
+Revision final realizada por el sector de QA.
+
+Revision final realizada por el sector de QA.
